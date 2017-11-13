@@ -31,3 +31,4 @@ Classes are basically more complex data types.
 ### String
 Collections of *chars*. Note that in Java, you **must** use double-quotes to declare a String.
 * Strings can be concatenated using the **+** operator just like in JS.   
+* Concatting strings with other values will auto-convert those values into a string before combining them. 
