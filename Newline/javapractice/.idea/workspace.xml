@@ -3,13 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="e84efac8-7b2a-46b2-8c2c-59c959d2e251" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../javapractice/.idea/description.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../javapractice/javapractice.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../javapractice/.idea/project-template.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../javapractice/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../javapractice/src/com/company/Main.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../javapractice/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../javapractice/javapractice.iml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../javapractice/out/production/javapractice/com/company/Main.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/../../javapractice/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/../../javapractice/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../../javapractice/src/com/company/Main.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -68,6 +68,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -97,9 +98,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
