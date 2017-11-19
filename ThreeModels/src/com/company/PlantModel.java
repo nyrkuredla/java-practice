@@ -6,6 +6,7 @@ public class PlantModel {
     private boolean isThirsty;
     private boolean isSucculent;
     private boolean isLeafy;
+    static int numPlants;
 
     public PlantModel(String name, boolean isSucculent, boolean isLeafy) {
         this.color = "green";
@@ -13,6 +14,7 @@ public class PlantModel {
         this.isThirsty = true;
         this.isSucculent = isSucculent;
         this.isLeafy = isLeafy;
+        numPlants ++;
     }
 
     //METHODS
