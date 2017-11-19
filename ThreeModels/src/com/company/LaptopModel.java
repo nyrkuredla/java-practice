@@ -1,12 +1,12 @@
 package com.company;
 
 public class LaptopModel {
-    String color;
-    String name;
-    String brand;
-    boolean isOn;
-    int ram;
-    int memory;
+    private String color;
+    private String name;
+    private String brand;
+    private boolean isOn;
+    private int ram;
+    private int memory;
 
     //CONSTRUCTOR
     public LaptopModel(String color, String name, String brand, int ram, int memory) {

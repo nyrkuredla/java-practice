@@ -22,5 +22,9 @@ public class Main {
     cuteCactus.water();
     cuteCactus.printInfo();
 
+//    System.out.println("I can't print this, though: " + cuteCactus.name); // this is because "name" is set to private access in the PlantModel class.
+        //You have to use the printInfo() method created in the class that has access to those variables directly, or create a getter method to do the same.
+        
+
     }
 }

@@ -1,11 +1,11 @@
 package com.company;
 
 public class PlantModel {
-    String color;
-    String name;
-    boolean isThirsty;
-    boolean isSucculent;
-    boolean isLeafy;
+    private String color;
+    private String name;
+    private boolean isThirsty;
+    private boolean isSucculent;
+    private boolean isLeafy;
 
     public PlantModel(String name, boolean isSucculent, boolean isLeafy) {
         this.color = "green";
