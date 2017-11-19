@@ -23,6 +23,9 @@ public class PlantModel {
     public void printInfo() {
         System.out.println("name: " + this.name + " color: " + this.color + " thirsty: " + this.isThirsty);
     }
+
 }
+
+
 
 
