@@ -8,6 +8,7 @@ public class Main {
         calculateScore(300);
         calculateScore();
     }
+    //method signature: method name and number of parameters.
 
     public static int calculateScore(String playerName, int playerScore) {
         System.out.println("Captain " + playerName + " scored " + playerScore + " in this round!");
@@ -16,7 +17,7 @@ public class Main {
         return bonusScore;
     }
 
-    // method overloading: same method name, but different number of arguments
+    // method overloading: same method name, but different number of arguments (so still a different method signature)
     // this means that we can use the same method name to pass both name and score, or just score, or nothing, and it will still run!
     public static int calculateScore(int playerScore) {
         System.out.println("Captain Anonymous scored " + playerScore + " in this round!");
